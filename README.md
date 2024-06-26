@@ -39,7 +39,7 @@ The annotations include marker boundaries and IDs. This annotated video is saved
 
 ## Authors
 - Evyatar Yosef - 207467820
-- Hai Levi 313589038
+- Hai Levi - 313589038
 
  
 
